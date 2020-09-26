@@ -35,7 +35,7 @@ body {
 }
 
 .navbar-dark {
-  background-color: #512DA8;
+  background-color: #a83f2d;
 }
 
 .tab-content {
@@ -46,7 +46,7 @@ body {
 }
 
 .carousel {
-  background: #512DA8;
+  background: #a83f2d;
 }
 
 .carousel .carousel-item {
@@ -66,4 +66,4 @@ body {
   bottom: 0px;
   z-index: 1;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=styles.css.map */
